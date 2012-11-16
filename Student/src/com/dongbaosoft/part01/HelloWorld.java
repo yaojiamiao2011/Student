@@ -5,6 +5,7 @@ public class HelloWorld {
 	public static void main(String args[])
 	{
 		System.out.println("东宝软件，您好。");
+		//add ...
 	}
 	//提交到 github 中。
 	
