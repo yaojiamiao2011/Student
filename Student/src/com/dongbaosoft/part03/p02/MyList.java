@@ -23,6 +23,7 @@ public class MyList extends Basic{
 		{
 			System.out.println(it.next());
 		}
+		
 
 	}
 }
